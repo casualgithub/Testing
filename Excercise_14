@@ -1,0 +1,4 @@
+insert into HadoopExamTab2 values
+  ('Hadoop', 'Hive', 4000), ('Hadoop', 'Impala', 2500), ('Hadoop', 'Pig', 2400),
+  ('Hadoop', 'OOzie', 1500), ('Hadoop', 'Zookeeper', 1550), ('Hadoop', 'Mahout', 2600),
+  ('Spark', 'SQL', 1450), ('Spark', 'Spark', 1700), ('Spark', 'Machine Learning', 5000);
